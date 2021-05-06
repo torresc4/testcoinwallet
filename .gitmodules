@@ -1,0 +1,3 @@
+[submodule "testcoin"]
+	path = testcoin
+	url = https://github.com/torresc4/testcoin.git
